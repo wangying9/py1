@@ -94,3 +94,6 @@ def my_function(fname):
 my_function("Emil")
 my_function("Tobias")
 my_function("Linus")
+
+bing=2
+print(bing)
