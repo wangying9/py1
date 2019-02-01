@@ -73,6 +73,7 @@ b="  Apple"
 print(b.strip())
 print(a.replace("low","lo"))
 print(a.split(",")) #return ['Hellow', ' World']
+
 #list
 mylist=["Apple","orange","banana"]
 print(mylist[1])
@@ -95,5 +96,7 @@ my_function("Emil")
 my_function("Tobias")
 my_function("Linus")
 
-bing=2
-print(bing)
+a=2
+b=10
+if b > a:
+    print("b is greater than a")
